@@ -1,0 +1,3 @@
+#!/bin/bash
+# Este script imprime el directorio de trabajo actual
+pwd
